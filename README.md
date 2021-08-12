@@ -15,4 +15,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<a href="https://app.daily.dev/mnzit"><img src="https://api.daily.dev/devcards/53cfb66a33364d2995d63b18b716ceeb.png?r=n07" width="400" alt="Manjit Shakya's Dev Card"/></a>
+<img src="https://api.daily.dev/devcards/53cfb66a33364d2995d63b18b716ceeb.png?r=n07" width="400" alt="Manjit Shakya's Dev Card"/>
