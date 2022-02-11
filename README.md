@@ -30,14 +30,9 @@
 
 <br>
 </p>
-- 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am Goku. 
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mnzit&theme=gruvbox" alt="mnzit"  /></p>
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mnzit&theme=gruvbox&hide_border=true&area=true)
-
-
 
 ## 🛠️ My Skills
 
