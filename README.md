@@ -67,8 +67,8 @@
 
 ### 👉 Frameworks
 <p align="left"> 
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <a href="https://spring.io/" target="_blank"> 
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   </a>
 </p>
 
