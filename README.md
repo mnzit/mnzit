@@ -14,6 +14,7 @@
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on Java Projects
+- 💬 I'm training and mentoring
 - 👯 I’m looking to collaborate on Java, Rust and Javascript
 - 🤔 I’m also working as a Freelancer at Upwork and Fiverr.
 - 💬 Ask me about Programming
@@ -101,9 +102,3 @@
      
     
 </p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
-
-
-<br/>
-
