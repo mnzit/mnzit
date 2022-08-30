@@ -84,3 +84,5 @@
      
     
 </p>
+
+<a href="https://app.daily.dev/mnzit"><img src="https://api.daily.dev/devcards/53cfb66a33364d2995d63b18b716ceeb.png?r=f7k" width="400" alt="Manjit Shakya's Dev Card"/></a>
